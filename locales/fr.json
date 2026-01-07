@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "music": "Musique",
+    "artisticDirection": "Direction artistique",
+    "press": "Presse",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "discover": "DÉCOUVRIR L'UNIVERS",
+      "booking": "BOOKING"
+    },
+    "artistWord": {
+      "title": "Le Mot de l'Artiste",
+      "quote": "Chaque scène est une opportunité de célébrer notre identité et de la partager avec passion.",
+      "desc": "Artiste aux multiples facettes, Betia transforme chaque projet en une expérience sensorielle inoubliable, qu'elle soit derrière le micro ou à la tête de la création visuelle.",
+      "more": "EN SAVOIR PLUS"
+    },
+    "portfolio": {
+      "title": "Portefeuille",
+      "subtitle": "Productions Majeures",
+      "lion": "Le Roi Lion",
+      "gatsby": "Gatsby Night",
+      "seeProject": "VOIR LE PROJET"
+    }
+  },
+  "about": {
+    "bio": "Biographie",
+    "name": "Betia Herimalala",
+    "p1": "Artiste complète et passionnée, Betia s'est imposée comme l'une des voix les plus prometteuses de la scène malgache contemporaine. Dès l'âge de 8 ans, elle foule les planches pour son premier concert, marquant le début d'une vocation indéniable.",
+    "p2": "Auteure-compositrice-interprète, elle puise dans ses racines malgaches pour créer une musique hybride, à la fois authentique et moderne. Son parcours témoigne d'une indépendance farouche et d'une soif constante de création.",
+    "p3": "En tant que Directrice Artistique, elle a dirigé des productions majeures comme \"Le Roi Lion\" et \"Aladdin\", acclamées pour leur rigueur et leur souffle créatif.",
+    "quote": "Porter la culture malgache sur le devant de la scène, c'est ma mission et ma plus grande fierté."
+  },
+  "music": {
+    "discography": "Discographie",
+    "title": "Musique & Images",
+    "streaming": "Streaming",
+    "spotifyProfile": "Profil Spotify Officiel",
+    "spotifyDesc": "Suivez Betia sur Spotify pour être informé des dernières sorties et découvrir ses playlists personnelles mêlant influences malgaches et contemporaines.",
+    "openSpotify": "OUVRIR DANS SPOTIFY",
+    "videos": "Vidéos",
+    "clips": "Clips & Performances",
+    "youtube": "Chaîne YouTube Officielle",
+    "watch": "Regarder",
+    "moreOn": "Plus de musique sur"
+  },
+  "artistic": {
+    "expertise": "Expertise",
+    "title": "Direction Artistique",
+    "desc": "De la conception à la scène, Betia insuffle une vision unique aux productions d'envergure, alliant héritage culturel et modernité scénique.",
+    "status": "Statut",
+    "soldout": "Guichets fermés",
+    "role": "Rôle",
+    "gallery": "Voir la galerie du spectacle",
+    "visionTitle": "Une Vision Sur-Mesure",
+    "visionDesc": "Que ce soit pour une comédie musicale, un clip ou un concert conceptuel, Betia apporte une direction artistique rigoureuse et émouvante.",
+    "discuss": "DISCUTER D'UN PROJET"
+  },
+  "press": {
+    "news": "Actualités",
+    "title": "Presse & Médias",
+    "read": "Lire l'article complet",
+    "pressSpace": "Espace Presse",
+    "pressDesc": "Journalistes et partenaires, accédez à notre kit média complet comprenant photos HD, biographie officielle et dossiers de presse.",
+    "askKit": "Demander le Press Kit"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Collaborons Ensemble",
+    "info": "Vous pouvez aussi me contacter directement via les réseaux sociaux :",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "ENVOYER LE MESSAGE",
+      "success": "Merci ! Votre message a été envoyé avec succès.",
+      "error": "Erreur lors de l'envoi. Merci de réessayer plus tard."
+    },
+    "location": "Antananarivo, Madagascar",
+    "socials": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    }
+  }
+}

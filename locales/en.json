@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "music": "Music",
+    "artisticDirection": "Artistic Direction",
+    "press": "Press",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "discover": "DISCOVER THE UNIVERSE",
+      "booking": "BOOKING"
+    },
+    "artistWord": {
+      "title": "The Artist's Word",
+      "quote": "Each stage is an opportunity to celebrate our identity and share it with passion.",
+      "desc": "A multifaceted artist, Betia turns every project into an unforgettable sensory experience, whether behind the mic or leading visual creation.",
+      "more": "LEARN MORE"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "subtitle": "Major Productions",
+      "lion": "The Lion King",
+      "gatsby": "Gatsby Night",
+      "seeProject": "SEE PROJECT"
+    }
+  },
+  "about": {
+    "bio": "Biography",
+    "name": "Betia Herimalala",
+    "p1": "A complete and passionate artist, Betia has established herself as one of the most promising voices on the contemporary Malagasy scene. At the age of 8, she took to the stage for her first concert, marking the beginning of an undeniable vocation.",
+    "p2": "Singer-songwriter, she draws on her Malagasy roots to create a hybrid music, both authentic and modern. Her career reflects fierce independence and a constant thirst for creation.",
+    "p3": "As Artistic Director, she has led major productions such as \"The Lion King\" and \"Aladdin\", acclaimed for their rigor and creative flair.",
+    "quote": "Bringing Malagasy culture to the forefront is my mission and my greatest pride."
+  },
+  "music": {
+    "discography": "Discography",
+    "title": "Music & Images",
+    "streaming": "Streaming",
+    "spotifyProfile": "Official Spotify Profile",
+    "spotifyDesc": "Follow Betia on Spotify to stay up to date with the latest releases and discover her personal playlists blending Malagasy and contemporary influences.",
+    "openSpotify": "OPEN IN SPOTIFY",
+    "videos": "Videos",
+    "clips": "Clips & Performances",
+    "youtube": "Official YouTube Channel",
+    "watch": "Watch",
+    "moreOn": "More music on"
+  },
+  "artistic": {
+    "expertise": "Expertise",
+    "title": "Artistic Direction",
+    "desc": "From conception to stage, Betia brings a unique vision to large-scale productions, combining cultural heritage and modern stagecraft.",
+    "status": "Status",
+    "soldout": "Sold out",
+    "role": "Role",
+    "gallery": "See the show gallery",
+    "visionTitle": "A Tailor-Made Vision",
+    "visionDesc": "Whether for a musical, a video or a conceptual concert, Betia brings rigorous and moving artistic direction.",
+    "discuss": "DISCUSS A PROJECT"
+  },
+  "press": {
+    "news": "News",
+    "title": "Press & Media",
+    "read": "Read full article",
+    "pressSpace": "Press Space",
+    "pressDesc": "Journalists and partners, access our complete media kit including HD photos, official biography and press files.",
+    "askKit": "Request Press Kit"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's Collaborate",
+    "info": "You can also contact me directly via social networks:",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "SEND MESSAGE",
+      "success": "Thank you! Your message has been sent successfully.",
+      "error": "Error sending. Please try again later."
+    },
+    "location": "Antananarivo, Madagascar",
+    "socials": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    }
+  }
+}

@@ -90,14 +90,14 @@ const Home: React.FC = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2">
              <div className="relative h-[600px] group overflow-hidden border-r border-white/5">
-               <img src="assets/LION-PHOTO-2025-12-25-04-31-37.jpg" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Le Roi Lion" />
+               <img src="/assets/LION-PHOTO-2025-12-25-04-31-37.jpg" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Le Roi Lion" />
                 <div className="absolute inset-0 bg-black/60 group-hover:bg-black/20 transition-all flex flex-col items-center justify-center p-8">
                     <h4 className="text-3xl font-serif mb-4">{t('home.portfolio.lion')}</h4>
                     <Link to="/artistic-direction" className="text-[10px] tracking-widest border border-white/30 px-6 py-2 group-hover:bg-white group-hover:text-black transition-all">{t('home.portfolio.seeProject')}</Link>
                 </div>
              </div>
              <div className="relative h-[600px] group overflow-hidden">
-               <img src="assets/PHOTO-2025-12-25-04-31-43.jpg" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Spectacle Gatsby" />
+               <img src="/assets/PHOTO-2025-12-25-04-31-43.jpg" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000" alt="Spectacle Gatsby" />
                 <div className="absolute inset-0 bg-black/60 group-hover:bg-black/20 transition-all flex flex-col items-center justify-center p-8">
                     <h4 className="text-3xl font-serif mb-4">{t('home.portfolio.gatsby')}</h4>
                     <Link to="/artistic-direction" className="text-[10px] tracking-widest border border-white/30 px-6 py-2 group-hover:bg-white group-hover:text-black transition-all">{t('home.portfolio.seeProject')}</Link>

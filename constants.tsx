@@ -46,13 +46,13 @@ export const ARTISTIC_PROJECTS: MusicalProject[] = [
     title: 'Le Roi Lion',
     type: 'Comédie Musicale',
     description: 'Une adaptation majestueuse fusionnant Broadway et l\'âme malgache. Direction artistique et performance scénique récompensée.',
-    image: 'assets/LION-PHOTO-2025-12-25-04-31-37.jpg',
+    image: '/assets/LION-PHOTO-2025-12-25-04-31-37.jpg',
     roles: ['Directrice Artistique', 'Actrice (Nala)'],
     gallery: [
-      'assets/LION-PHOTO-2025-12-25-04-31-37.jpg',
-      'assets/LION-PHOTO-2025-12-25-04-31-37_1.jpg',
-      'assets/LION-PHOTO-2025-12-25-04-31-38.jpg',
-      'assets/LION-PHOTO-2025-12-25-04-31-38_1.jpg',
+      '/assets/LION-PHOTO-2025-12-25-04-31-37.jpg',
+      '/assets/LION-PHOTO-2025-12-25-04-31-37_1.jpg',
+      '/assets/LION-PHOTO-2025-12-25-04-31-38.jpg',
+      '/assets/LION-PHOTO-2025-12-25-04-31-38_1.jpg',
     ]
   },
   {
@@ -60,11 +60,11 @@ export const ARTISTIC_PROJECTS: MusicalProject[] = [
     title: 'Première Partie Dadju',
     type: 'Spectacle',
     description: 'Première partie du concert de Dadju à Madagascar en 2023. Prestation scénique devant plus de 10 000 spectateurs.',
-    image: 'assets/PHOTO-2025-12-25-04-31-39_1.jpg',
+    image: '/assets/PHOTO-2025-12-25-04-31-39_1.jpg',
     roles: ['Première Partie - Concert Dadju'],
     gallery: [
-      'assets/PHOTO-2025-12-25-04-31-44.jpg',
-      'assets/PHOTO-2025-12-25-04-31-45_1.jpg',
+      '/assets/PHOTO-2025-12-25-04-31-44.jpg',
+      '/assets/PHOTO-2025-12-25-04-31-45_1.jpg',
     ]
   },
   {
@@ -72,12 +72,12 @@ export const ARTISTIC_PROJECTS: MusicalProject[] = [
     title: 'Acoustic Stories',
     type: 'Spectacle',
     description: 'Une série de concerts intimistes où la voix et la guitare racontent des histoires de résilience.',
-    image: 'assets/PHOTO-2025-12-25-04-31-40_1.jpg',
+    image: '/assets/PHOTO-2025-12-25-04-31-40_1.jpg',
     roles: ['Chanteuse', 'Compositrice'],
     gallery: [
-      'assets/PHOTO-2025-12-25-04-31-39.jpg',
-      'assets/PHOTO-2025-12-25-04-31-40_1.jpg',
-      'assets/PHOTO-2025-12-25-04-31-40_2.jpg',
+      '/assets/PHOTO-2025-12-25-04-31-39.jpg',
+      '/assets/PHOTO-2025-12-25-04-31-40_1.jpg',
+      '/assets/PHOTO-2025-12-25-04-31-40_2.jpg',
     ]
   }
 ];

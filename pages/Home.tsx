@@ -58,9 +58,10 @@ const Home: React.FC = () => {
             <div className="w-full lg:w-1/2">
                 <ScrollReveal>
                     <img 
-                        src={GALLERY_ASSETS.feature} 
-                        alt="Betia - Vision Artistique" 
-                        className="w-full h-[600px] object-cover shadow-2xl border-white border-[12px]"
+                      src={GALLERY_ASSETS.feature} 
+                      alt="Betia - Vision Artistique" 
+                      className="w-full h-[600px] object-cover shadow-2xl border-white border-[12px] md:object-center" 
+                      style={{ objectPosition: 'left' }}
                     />
                 </ScrollReveal>
             </div>
